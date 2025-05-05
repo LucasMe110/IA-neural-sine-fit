@@ -48,7 +48,7 @@ Os experimentos exploram variações nos parâmetros e na estrutura da rede para
   - Modelo 1 teve desempenho mais estável, porém com erro médio maior.
 - **Conclusão**: Redes complexas são mais suscetíveis a ruídos elevados.
 
-![descrição da imagem](img/1)
+![descrição da imagem](img/1.png)
 
 
 ---
